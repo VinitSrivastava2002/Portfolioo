@@ -13,7 +13,7 @@ export const profile = {
   location: "Noida, Uttar Pradesh, India",
   email: "vinitsss1234@gmail.com",
   phone: "+91 8737939262",
-  resumeUrl: "https://drive.google.com/file/d/1tZ_30pGYzUl_VB5V8sjMfNp4k2TWcWXZ/view?usp=share_link",
+  resumeUrl: "https://drive.google.com/file/d/12KFyd_6FKtfqT8NzD65wvsOIkm8NWQ2x/view?usp=sharing",
   socials: {
     github: "https://github.com/VinitSrivastava2002",
     linkedin: "https://www.linkedin.com/in/vinit-srivastava-2ba5191a6/",

@@ -103,12 +103,14 @@ export default function Hero() {
           className="relative mx-auto"
         >
           <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-[2.5rem] bg-gradient-to-br from-[var(--color-sky)] to-[var(--color-azure-2)]/20 p-2">
-            <div className="w-full h-full rounded-[2rem] bg-[var(--color-sky-2)] flex items-center justify-center overflow-hidden border border-[var(--color-line)]">
-              <span className="font-display text-8xl font-semibold text-[var(--color-azure)]">
-                VS
-              </span>
-            </div>
-          </div>
+  <div className="w-full h-full rounded-[2rem] overflow-hidden border border-[var(--color-line)] bg-[var(--color-sky-2)]">
+    <img
+      src="/images/myimage.jpeg" // Replace with your image path
+      alt="Vinit Srivastava"
+      className="w-full h-full object-cover object-center transition-transform duration-300 hover:scale-105"
+    />
+  </div>
+</div>
           <motion.div
             animate={{ y: [0, -14, 0] }}
             transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
