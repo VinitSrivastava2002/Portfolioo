@@ -65,14 +65,14 @@ export const projects = [
     live: "http://nature-to-natours.netlify.app/",
     featured: false,
   },
-  {
-    title: "Musicify.io",
-    description:
-      "An online music player inspired by modern streaming UIs, built with vanilla JS and DOM manipulation over a hand-crafted SCSS design system.",
-    tech: ["JavaScript", "SCSS", "DOM APIs"],
-    image: "images/musicify.png",
-    github: "https://github.com/VinitSrivastava2002",
-    live: "https://musicify-io.netlify.app/",
-    featured: false,
-  },
+  // {
+  //   title: "Musicify.io",
+  //   description:
+  //     "An online music player inspired by modern streaming UIs, built with vanilla JS and DOM manipulation over a hand-crafted SCSS design system.",
+  //   tech: ["JavaScript", "SCSS", "DOM APIs"],
+  //   image: "images/musicify.png",
+  //   github: "https://github.com/VinitSrivastava2002",
+  //   live: "https://musicify-io.netlify.app/",
+  //   featured: false,
+  // },
 ];
